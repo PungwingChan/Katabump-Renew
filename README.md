@@ -14,7 +14,3 @@
 
 ## 📝 PRIVATE_REPO_TOKEN 生成方式
 GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token (classic) → 勾选 `repo` + `workflow` → Generate token → 填入 Secret。
-
-## 🗂️ 仓库结构
-- **公库**（本仓库）：存放 `.github/workflows/main.yml`
-- **私库** `Katabump-VPS-Renew`：存放 `renew.py`
